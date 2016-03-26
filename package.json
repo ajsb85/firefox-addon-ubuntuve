@@ -1,7 +1,7 @@
 {
   "title": "Ubuntu VE",
   "name": "ubuntu-venezuela",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "id": "{ef65f6de-fa25-45fd-8038-4a340bea4d55}",
   "description": "Quick navigation menu through all the resources of the Venezuelan community of the Linux distribution Ubuntu (www.ubuntu.org.ve). Allow also a quick navigation through some resources of other Ubuntu communities including the international one.",
   "main": "lib/main.js",

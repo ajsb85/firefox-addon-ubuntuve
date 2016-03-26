@@ -1,5 +1,5 @@
-![ubuntuve-logo](https://raw.github.com/ajsb85/firefox-addon-ubuntuve/master/press/logo/ubuntuve_logo.png "ubuntuve")
-# Ubuntu VE
+![ubuntuve-logo](https://raw.github.com/ajsb85/firefox-addon-ubuntuve/master/press/logo/ubuntuve_logo.png "ubuntuve") # Ubuntu VE
+
 
 Quick navigation menu through all the resources of the Venezuelan community of the Linux distribution Ubuntu (www.ubuntu.org.ve). Allow also a quick navigation through some resources of other Ubuntu communities including the international one.
 
@@ -14,8 +14,9 @@ https://addons.mozilla.org/addon/ubuntu-venezuela/
 Filing a bug at https://github.com/ajsb85/firefox-addon-ubuntuve/issues
 
 ### Preview Screenshots
-![ubuntuve-gif](https://raw.github.com/ajsb85/firefox-addon-ubuntuve/master/press/screens/fx.gif "teclib")<br>
-![ubuntuve-gif](https://raw.github.com/ajsb85/firefox-addon-ubuntuve/master/press/screens/dev.gif "teclib")<br>
+![ubuntuve-gif](https://raw.github.com/ajsb85/firefox-addon-ubuntuve/master/press/screens/fx.gif "ubuntuve")
+![ubuntuve-gif](https://raw.github.com/ajsb85/firefox-addon-ubuntuve/master/press/screens/dev.gif "ubuntuve")
+
 
 ### Works with:
 

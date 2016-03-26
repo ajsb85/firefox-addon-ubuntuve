@@ -19,7 +19,6 @@ Filing a bug at https://github.com/ajsb85/firefox-addon-ubuntuve/issues
 ![ubuntuve-png](https://raw.github.com/ajsb85/firefox-addon-ubuntuve/master/press/screens/screen3.png "ubuntuve")
 ![ubuntuve-png](https://raw.github.com/ajsb85/firefox-addon-ubuntuve/master/press/screens/screen4.png "ubuntuve")
 
-
 ### Works with:
 
     Firefox: 38.0a1 – 47.0a2

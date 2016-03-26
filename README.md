@@ -1,4 +1,4 @@
-![ubuntuve-logo](https://raw.github.com/ajsb85/firefox-addon-ubuntuve/master/press/logo/ubuntuve_logo.png.png "ubuntuve")
+![ubuntuve-logo](https://raw.github.com/ajsb85/firefox-addon-ubuntuve/master/press/logo/ubuntuve_logo.png "ubuntuve")
 # Ubuntu VE
 
 Quick navigation menu through all the resources of the Venezuelan community of the Linux distribution Ubuntu (www.ubuntu.org.ve). Allow also a quick navigation through some resources of other Ubuntu communities including the international one.

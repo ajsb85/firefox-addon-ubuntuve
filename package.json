@@ -1,0 +1,37 @@
+{
+  "title": "Ubuntu VE",
+  "name": "ubuntu-venezuela",
+  "version": "0.1.0",
+  "id": "{ef65f6de-fa25-45fd-8038-4a340bea4d55}",
+  "description": "Quick navigation menu through all the resources of the Venezuelan community of the Linux distribution Ubuntu (www.ubuntu.org.ve). Allow also a quick navigation through some resources of other Ubuntu communities including the international one.",
+  "main": "lib/main.js",
+  "locales": {
+    "es": {
+      "title": "Ubuntu VE",
+      "description": "Menú de navegación rápida a través de todos los recursos de la comunidad venezolana del Sistema Operativo Ubuntu (www.ubuntu.org.ve)."
+    }
+  },
+  "author": {
+    "name": "Alexander J. Salas B.",
+    "email": "a.salas@ieee.org",
+    "url": "http://ajsb85.com/"
+  },
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "permissions": {
+    "multiprocess": true
+  },
+  "license": "MPL-2.0",
+  "keywords": [
+    "jetpack",
+    "ubuntu",
+    "venezuela"
+  ],
+  "bugs": {
+    "url": "https://github.com/ajsb85/firefox-addon-mediahint/issues"
+  },
+  "dependencies": {
+    "jetpack-panelview": "^0.2.3"
+  }
+}

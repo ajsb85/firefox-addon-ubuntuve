@@ -32,6 +32,6 @@
     "url": "https://github.com/ajsb85/firefox-addon-mediahint/issues"
   },
   "dependencies": {
-    "jetpack-panelview": "^0.2.3"
+    "jetpack-panelview": "0.2.3"
   }
 }
